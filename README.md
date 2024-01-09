@@ -1,6 +1,6 @@
 🚀🗺️ Presenting StaySpot: Your Ultimate Travel Companion! 🏝️
 
-Hey LinkedIn Connections! 👋 I'm excited to share my latest project, StaySpot📷, a cutting-edge MERN stack🚀based project that redefines the way you explore accommodations.
+👋 I'm excited to share my latest project, StaySpot📷, a cutting-edge MERN stack🚀based project that redefines the way you explore accommodations.
 
 💻👨‍💻Tech Stack: React Js, Node.js, Express.js, MongoDB, Google Auth, JWT, Google Maps, API Integration.
 
